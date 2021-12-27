@@ -6,5 +6,3 @@
 produzidas pela empresa.
  
 Para aprimorar meus conhecimentos em ciência de dados estou começando a desenvolver projetos utilizando a biblioteca pandas do python, estudando a respeito de banco de dados relacionais e não relacionais, sobre armazenamento de dados na nuvem e sobre visualização de dados.
-
-Também estou iniciando meus estudos no kaggle, com este <a href="https://www.kaggle.com/gustavodomingos">perfil</a>.
