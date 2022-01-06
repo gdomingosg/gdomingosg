@@ -1,8 +1,5 @@
 ### Oi, eu sou o Gustavo!!
 
-- Atualmente trabalho em uma empresa de dispositivos médicos desenvolvendo alguns scripts em python e VBA para a automação de tarefas.
-  - Para o desenvolvimento dos scripts python, utilizei principalmente a biblioteca PILLOW, ReportLab, PySimpleGUI e PyInstaller
-  - Com VBA, uma das atividades foi a atualização de uma tabela com dados de projetos de produtos que não permitia o input de novos dados. Agi migrando os dados da tabela antiga para uma nova e reorganizando-os de uma forma mais simplificada. Os códigos VBA foram responsáveis por fazer a interpretação desses dados e entregar folhas de projetos das próteses vasculares
-produzidas pela empresa.
+Sou Graduando em Engenharia de Materiais na UFSC com formatura prevista para o primeiro trimestre de 2022. Atualmente estou em busca de uma oportunidade para aplicar os conhecimentos que venho estudando sobre Análise e Ciência de Dados e obter experiência em projetos reais sobre o assunto. Possuo conhecimentos avançados em Excel, intermediários em VBA, Python e Power BI e básicos em SQL, Pandas e scikit-learn. Tenho interesse em análise de dados focado na melhoria de negócios, visualização de dados e aplicação de modelos de machine learning para previsão de resultados.
  
-Para aprimorar meus conhecimentos em ciência de dados estou começando a desenvolver projetos utilizando a biblioteca pandas do python, estudando a respeito de banco de dados relacionais e não relacionais, sobre armazenamento de dados na nuvem e sobre visualização de dados.
+Para aprimorar meus conhecimentos em análise e ciência de dados estou desenvolvendo projetos e utilizando este perfil como portifólio.
